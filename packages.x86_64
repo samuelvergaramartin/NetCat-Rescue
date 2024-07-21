@@ -1,0 +1,11 @@
+base
+cloud-init
+linux
+mkinitcpio
+mkinitcpio-archiso
+open-vm-tools
+openssh
+pv
+syslinux
+linux-firmware
+wpa_supplicant
